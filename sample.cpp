@@ -24,6 +24,8 @@
 #include <unordered_map>
 #include <bitset>
 #include <complex>
+#define mp make_pair
+#define pii pair<int, int>
 using namespace std;
 typedef long long ll;
 mt19937 rng(time(0)); uniform_int_distribution<int>uid(-1e9, 1e9);
